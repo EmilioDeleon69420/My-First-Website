@@ -2,7 +2,7 @@
 <head>
 <title>Page Title</title>
 </head>
-<body>
+</body>
 <h1> First Heading</h1>
 <p> first paragraph. </p>
 </body>
